@@ -1,6 +1,6 @@
 # pam_ssh_limit_ip
 
-Limit user logins by IP using pam_exec module
+Dynamically limit user logins by IP using pam_exec module. Effectively pinning a user to an IP until they are fully disconnected
 
 # What this is
 
